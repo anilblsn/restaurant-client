@@ -1,0 +1,2 @@
+.container{display:flex;flex-wrap:wrap;justify-content:space-between}.box{background-color:#ddd;border-radius:40px;box-shadow:0 4px 8px #000;height:200px;margin:10px 25px 15px 20px;width:100px}@media (max-width:600px){.box{width:100%}}
+/*# sourceMappingURL=main.e1029dbc.css.map*/
