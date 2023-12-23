@@ -1,0 +1,139 @@
+{
+  "menu": [
+    {
+      "category": "Soğuk İçecekler",
+      "category_image": "cold_drinks.jpg",
+      "items": [
+        {
+          "name": "Cola",
+          "price": 2.99,
+          "description": "Buzlu cola içeceği.",
+          "long_description": "Soğuk ve lezzetli bir cola içeceği.",
+          "image": "cola.jpg"
+        },
+        {
+          "name": "Limonata",
+          "price": 3.49,
+          "description": "Naneli limonata içeceği.",
+          "long_description": "Taze limon suyu ve nane ile yapılan serinletici bir içecek.",
+          "image": "lemonade.jpg"
+        },
+        {
+          "name": "Iced Tea",
+          "price": 2.79,
+          "description": "Buzlu çay içeceği.",
+          "long_description": "Serinletici buzlu çay içeceği.",
+          "image": "iced_tea.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Kahveler",
+      "category_image": "coffees.jpg",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 10.99,
+          "description": "Yoğun kahve tadıyla küçük bir fincan espresso.",
+          "long_description": "Espresso, öğütülmüş kahve çekirdekleri üzerine yüksek basınç altında sıcak su eklenerek hazırlanan yoğun ve koyu bir kahve türüdür. Genellikle küçük bir fincan içinde servis edilir.",
+          "image": "espresso.jpg"
+        },
+        {
+          "name": "Latte",
+          "price": 12.99,
+          "description": "Süt köpüğü ile lezzetlendirilmiş espresso.",
+          "long_description": "Latte, espresso üzerine buharla ısıtılmış süt ve süt köpüğünün eklenmesiyle yapılan bir kahve içeceğidir. Hafif ve kremalı bir tat profiline sahiptir.",
+          "image": "latte.jpg"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 11.99,
+          "description": "Espresso, süt buharı ve süt köpüğünün mükemmel kombinasyonu.",
+          "long_description": "Cappuccino, eşit oranlarda espresso, süt buharı ve süt köpüğünün karıştırılmasıyla elde edilen bir kahve içeceğidir. İtalyan kahve kültürünün bir simgesidir.",
+          "image": "cappuccino.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Pizzalar",
+      "category_image": "pizzas.jpg",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": 15.99,
+          "description": "Domates, mozzarella peyniri ve fesleğen ile yapılan pizza.",
+          "long_description": "Geleneksel İtalyan tarifine uygun olarak hazırlanan Margherita pizza.",
+          "image": "margherita.jpg"
+        },
+        {
+          "name": "Pepperoni",
+          "price": 17.99,
+          "description": "Sosis ve baharatlı pepperoni ile yapılan pizza.",
+          "long_description": "Fesleğen ve sarımsaklı sos ile lezzetlendirilmiş Pepperoni pizza.",
+          "image": "pepperoni.jpg"
+        },
+        {
+          "name": "Mushroom",
+          "price": 16.99,
+          "description": "Mantar, mozzarella peyniri ve kırmızı soğan ile yapılan pizza.",
+          "long_description": "Fırınlanmış mantarlarla zenginleştirilmiş Mushroom pizza.",
+          "image": "mushroom.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Burgerler",
+      "category_image": "burgers.jpg",
+      "items": [
+        {
+          "name": "Classic Burger",
+          "price": 14.99,
+          "description": "Klasik Amerikan tarzında bir burger.",
+          "long_description": "Dana kıyması, peynir, marul ve domates içeren lezzetli bir burger.",
+          "image": "classic_burger.jpg"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 16.99,
+          "description": "Peynir soslu bir burger.",
+          "long_description": "Dana kıyması, cheddar peyniri ve özel sos içeren Cheeseburger.",
+          "image": "cheeseburger.jpg"
+        },
+        {
+          "name": "Vegetarian Burger",
+          "price": 13.99,
+          "description": "Vejetaryenler için özel bir burger.",
+          "long_description": "Sebzeler, baklagiller ve özel baharatlarla hazırlanan sağlıklı bir burger seçeneği.",
+          "image": "vegetarian_burger.jpg"
+        }
+      ]
+    },
+    {
+      "category": "Kahvaltı",
+      "category_image": "breakfast.jpg",
+      "items": [
+        {
+          "name": "Omlet",
+          "price": 9.99,
+          "description": "Karışık sebzeler ve peynir içeren omlet.",
+          "long_description": "Farklı sebzelerle zenginleştirilmiş lezzetli bir kahvaltılık omlet.",
+          "image": "omlet.jpg"
+        },
+        {
+          "name": "Pancake",
+          "price": 8.99,
+          "description": "Ahududu reçeli ve taze meyvelerle servis edilen pancake.",
+          "long_description": "İnce ve hafif pancake, ahududu reçeli ve taze meyvelerle tamamlanmıştır.",
+          "image": "pancake.jpg"
+        },
+        {
+          "name": "French Toast",
+          "price": 10.99,
+          "description": "Tarçın ve şeker ile tatlandırılmış French toast.",
+          "long_description": "Taze yumurta ekmeği, tarçın ve pudra şekeri ile lezzetlendirilmiş French toast.",
+          "image": "french_toast.jpg"
+        }
+      ]
+    }
+  ]
+}
